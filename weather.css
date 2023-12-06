@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url(image/nai.jpg);
+    color: white;
+    font-family: poppin, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+.h1 {
+    font-weight: 700;
+    margin-top: 150px;
+}
+
+.input {
+    width: 350px;
+    padding: 5px;
+}
